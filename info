@@ -1,0 +1,11 @@
+{
+  "version": "playtest 0.0.1",
+  "name": {
+    "zh_cn": "异乡 玩家测试", 
+    "en": "Exiles Play Test"
+  },
+  "opentime": "2024-11-21T00:00:00.000000",
+  "state": -1,
+  "message": "当前测试活动还未开始，请耐心等待",
+  "dfile": null
+}
